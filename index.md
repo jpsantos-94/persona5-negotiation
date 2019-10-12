@@ -1086,7 +1086,7 @@
 	</tr>
 	<tr>
 		<td>Just try to escape.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 </table>
 <table>
